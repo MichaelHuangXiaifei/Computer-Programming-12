@@ -1,2 +1,2 @@
 # Computer-Programming-12
-This is a repository for computer programming 12 class
+This is a repository for my computer programming 12 class

@@ -41,7 +41,7 @@ public class SimpleCalculator {
                     }
                     break;
                 case "*":
-                    if ((firstNumber - secondNumber) % 1 != 0) {
+                    if ((firstNumber * secondNumber) % 1 != 0) {
                         System.out.println("Product: " + (firstNumber * secondNumber));
                     } else {
                         System.out.println("Product: " + (int) (firstNumber * secondNumber));
